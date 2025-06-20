@@ -1,9 +1,11 @@
 {
-    "owner": {
-        "username": "shadow0l9",
-        "email": "hellometesat@gmail.com"
-    },
-    "records": {
-        "A": ["75.2.60.5"]
-    }
+  "description": "Shadow Boy - Discord Bot Website",
+  "repo": "https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]",
+  "owner": {
+    "username": "shadow0l9",
+    "email": "hellometesat@gmail.com"
+  },
+  "record": {
+    "CNAME": "shadowboywebsite.netlify.app"
+  }
 }
